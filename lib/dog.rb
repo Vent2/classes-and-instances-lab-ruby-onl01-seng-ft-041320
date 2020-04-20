@@ -1,4 +1,6 @@
 class Dog
+  def initialize
+    puts "woof"
 end
 
 fido = Dog.new
